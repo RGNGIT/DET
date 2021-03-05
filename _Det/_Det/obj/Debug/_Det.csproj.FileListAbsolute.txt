@@ -1,0 +1,10 @@
+H:\_Det\_Det\bin\Debug\_Det.exe.config
+H:\_Det\_Det\bin\Debug\_Det.exe
+H:\_Det\_Det\bin\Debug\_Det.pdb
+H:\_Det\_Det\obj\Debug\_Det.csprojAssemblyReference.cache
+H:\_Det\_Det\obj\Debug\_Det.Form1.resources
+H:\_Det\_Det\obj\Debug\_Det.Properties.Resources.resources
+H:\_Det\_Det\obj\Debug\_Det.csproj.GenerateResource.cache
+H:\_Det\_Det\obj\Debug\_Det.csproj.CoreCompileInputs.cache
+H:\_Det\_Det\obj\Debug\_Det.exe
+H:\_Det\_Det\obj\Debug\_Det.pdb
